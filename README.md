@@ -4,6 +4,13 @@
 
 Wiki地址: [https://github.com/CrystalMir2/CrystalMir-Wiki/wiki](https://github.com/CrystalMir2/CrystalMir-Wiki/wiki)
 
+# 中文引擎介绍:
+
+### CrystalM2
+
+说明文档: [./CrystalM2.md](https://github.com/CrystalMir2/CrystalMir-Wiki/blob/main/CrystalM2)
+
+### 示例截图
 
 ![image](https://github.com/CrystalMir2/CrystalMir-Wiki/assets/143333779/30060f39-c7d8-4e45-a04a-2a0ca2de990c)
 
